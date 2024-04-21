@@ -20,6 +20,6 @@ The check_json.py script is a tool for validating the structure of JSON files co
 3. After running the script, it will prompt you for the path to the JSON file which you want to check.
 
 ### Testing
-1. Download the test_json.py file to your computer.
+1. Download the test_json.py file and '*.json' and '*.txt' testing files to your computer.
 2. To run the test script:
 `python -m unittest check_json.py`
